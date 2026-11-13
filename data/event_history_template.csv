@@ -1,0 +1,4 @@
+event_name,event_type,city,event_date,guests,days,quality,estimated_total
+Sample Birthday,Birthday Celebration,Chennai,2026-12-20,100,1,Classic,125000
+Sample Wedding,Wedding / Marriage,Chennai,2027-01-15,500,2,Premium,1250000
+Sample Success Meet,Success Meet,Coimbatore,2027-02-10,180,1,Classic,185000
